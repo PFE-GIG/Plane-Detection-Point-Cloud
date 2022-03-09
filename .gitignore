@@ -38,3 +38,8 @@ work/
 test/
 figures/*.txt
 figures/*.ply
+
+figures/*/*.txt
+figures/*/*.ply
+
+data/my_pcd
