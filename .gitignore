@@ -43,3 +43,5 @@ figures/*/*.txt
 figures/*/*.ply
 
 data/my_pcd
+
+.vscode
